@@ -2,7 +2,6 @@
 
 ### Introduction
 This repo consists of the **Backend** part of a Realtime Chat Application built with the MERN stack. I built it when I was trying to learn React and the stack for the first time.
-You can find the frontend repo [here](https://github.com/tsengm6h6/chat-app-client-v2).
 
 ### Feature
 - JWT Authentication
@@ -35,11 +34,11 @@ password: 12345678
 ### How to use
 1. Clone the repo
     ```
-    git clone https://github.com/tsengm6h6/chat-app-server.git
+    git clone https://github.com/livebcdev0603/realtime-chat-backend.git
     ```
 2. Enter the directory
     ```
-    cd chat-app-server
+    cd realtime-chat-backend
     ```
 3. Install dependencies
     ```
