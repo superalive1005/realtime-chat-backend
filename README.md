@@ -1,7 +1,7 @@
 # Realtime Chat App with MERN stack (Backend)
 
 ### Introduction
-This repo consists of the **Backend** part of a Realtime Chat Application built with the MERN stack. I built it when I was trying to learn React and the stack for the first time.
+This repo consists of the **Backend** part of a Realtime Chat Application built with the MERN stack.
 
 ### Feature
 - JWT Authentication
