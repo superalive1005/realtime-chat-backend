@@ -34,7 +34,7 @@ password: 12345678
 ### How to use
 1. Clone the repo
     ```
-    git clone https://github.com/livebcdev0603/realtime-chat-backend.git
+    git clone https://github.com/superalive1005/realtime-chat-backend.git
     ```
 2. Enter the directory
     ```
